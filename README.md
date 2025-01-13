@@ -15,7 +15,7 @@ Skip List — это вероятностная структура данных,
 ### Визуальное представление:
 (Рандомная картинка из интернета)
 
-![img.png](img.png)
+![img.png](src/img.png)
 
 ### Concurrent Skip List
 #### Подход к созданию Concurrent Skip List:
